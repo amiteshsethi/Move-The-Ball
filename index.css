@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+.heading{
+    color: white;
+    text-align: center;
+}
+
+#ball{
+    background-color:rgb(69, 179, 26);
+    height:200px;
+    width:200px;
+    border-radius:50%;
+    
+}
